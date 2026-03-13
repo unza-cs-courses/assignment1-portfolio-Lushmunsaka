@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** Lushomo Munsaka
+**Student ID:** 2022063643
+**Design Theme:** Primary color scheme (#2563eb) with gradients, rounded corners, and plenty of white space.
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,10 +139,19 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+Challenge: Ensuring the fixed header doesn't overlap content when using anchor links.
+Solution: Applied scroll-behavior: smooth and adjusted padding to account for fixed header height.
+Challenge: Creating a responsive grid that works across all breakpoints without content overflow.
+Solution: Used CSS Grid with repeat(auto-fit) approach, switching from 1 column (mobile) → 2 columns (tablet) → 3 columns (desktop).
+Challenge: Maintaining accessibility while using custom styled form inputs.
+Solution: Ensured proper label associations, focus states with visible outlines, and ARIA labels for interactive elements.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+Profile Image: Unsplash (Perfect Cell - https://i.pinimg.com/originals/16/68/b7/1668b75fa1ed5c4a0e912d4a8b5ceb8e.jpg)
+Project Images: Unsplash (Various photographers)
+E-Commerce Dashboard: Luke Chesser
+Person Counting App: Yura Fresh
+Student Management System Dashboard: Austin Distel
 
 ---
 
